@@ -20,7 +20,7 @@
     "iframe-resizer-react": "^1.1.0",
     "is-valid-domain": "^0.1.2",
     "jwt-decode": "^3.1.2",
-    "next": "10.0.5",
+    "next": "13.5.0",
     "react": "17.0.1",
     "react-color-palette": "^6.1.0",
     "react-dom": "17.0.1",
@@ -31,7 +31,7 @@
     "yarn": "^1.22.11"
   },
   "devDependencies": {
-    "postcss": "8.2.4",
+    "postcss": "8.4.31",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-preset-env": "6.7.0",
     "prettier": "2.2.1"
